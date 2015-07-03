@@ -1,0 +1,24 @@
+{
+  "name": "hypem",
+  "version": "1.0.0",
+  "description": "trying node-hypem to learn node and learn the hype machine api",
+  "main": "main.js",
+  "dependencies": {
+    "node-hypem": "^0.0.6",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cpk1224/hypem.git"
+  },
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cpk1224/hypem/issues"
+  },
+  "homepage": "https://github.com/cpk1224/hypem"
+}
